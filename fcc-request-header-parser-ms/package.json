@@ -1,0 +1,15 @@
+{
+  "name": "fcc-header-parser-1",
+  "version": "1.0.0",
+  "description": "Request header parser service for fcc",
+  "engines": {
+    "node": "6.9.5"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Tejas Shah",
+  "license": "ISC"
+}

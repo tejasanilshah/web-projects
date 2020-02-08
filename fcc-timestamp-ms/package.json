@@ -1,0 +1,19 @@
+{
+  "name": "fcc-timestamp-0",
+  "version": "1.0.0",
+  "description": "Timestamp microservice for fcc",
+  "engines": {
+    "node": "6.9.5"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Tejas Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0",
+    "moment": "^2.17.1"
+  }
+}
